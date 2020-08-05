@@ -1,16 +1,20 @@
-### Hi there 👋
+<img align="right" width="400" height="400" src="https://i.imgur.com/qmQeeUi.png">
 
-<!--
-**CodeXTF2/CodeXTF2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi, I'm CodeX 🖥️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Script kiddie (Wannabe red team operator). Someday il
+ get some skills :cry:
+
+
+
+
+
+
+## About me 
+
+C2 Frameworks :robot: | Pentester 🖥️ | Noob 👶
+
+- :video_game: I like to play TF2
+- 💻I really like red teaming
+
