@@ -16,5 +16,5 @@
 C2 Frameworks :robot: | Pentester 🖥️ | Noob 👶
 
 - :video_game: I like to play TF2
-- 💻I really like red teaming
+- 💻I like red teaming
 
