@@ -13,8 +13,7 @@
 
 ## About me 
 
-C2 Frameworks :robot: | Pentester 🖥️ | Noob 👶
-
 - :video_game: I like to play TF2
 - 💻I like red teaming
+- I code sometimes, most of my repos are private though :/
 
