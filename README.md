@@ -6,11 +6,8 @@
  Script kiddie (Wannabe red team operator). Someday il
  get some skills :cry:
 
-
-
-
-
-
+  
+[Check out my gitpages :D](codextf2.github.io)
 ## About me 
 
 - :video_game: I like to play TF2
