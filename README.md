@@ -1,4 +1,4 @@
-# root@codex🖥️#
+# root@codex🖥️# whoami
 
  Script kiddie (Wannabe red team operator). Someday il
  get some skills :cry:
