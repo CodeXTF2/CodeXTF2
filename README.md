@@ -1,4 +1,4 @@
-# Hi, I'm CodeX 🖥️
+# root@codex🖥️#
 
  Script kiddie (Wannabe red team operator). Someday il
  get some skills :cry:
