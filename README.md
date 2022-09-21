@@ -16,5 +16,5 @@
 
 - :video_game: I like to play TF2
 - 💻I like red teaming
-- I code sometimes, most of my repos are private though :/
+- I'm a skiddy kid trying to not suck at infosec
 
