@@ -3,12 +3,7 @@
  Script kiddie (Wannabe red team operator). Someday il
  get some skills :cry:
  
- I like developing offensive tools e.g. red team implants/droppers, C2 infra and other general offensive research. I'll post anything here as long as open sourcing said tool won't affect it's usability (e.g. shellcode loaders getting sigged by AV vendors etc.)
- 
-## Stuff I post here
-- Useful scripts for red teams
-- injection/evasion/execution PoCs
-- Misc offensive tooling
+ I like developing offensive tools e.g. red team implants/droppers, C2 infra and other general offensive research. I usually post misc offensive tooling such as aggressorscripts, beacon object files and some red team automation scripts/tools. 
 
 ## Red team gitbook
 [Check out my gitbook :D](https://codex-7.gitbook.io/codexs-terminal-window/)
