@@ -1,5 +1,5 @@
 # root@codex🖥️# whoami
-I'm a kid who likes developing offensive tools e.g. red team implants/droppers, C2 infra and other general offensive research. I occasionally clean up some of the tools/scripts I create over time and post them here.
+I'm a skid who likes developing offensive tools e.g. red team implants/droppers, C2 infra and other general offensive research. I occasionally clean up some of the tools/scripts I create over time and post them here.
 
 anything I make is to be used strictly ONLY for malicious purposes. I am NOT responsible for any education that results from incorrect or legitimate use. It is YOUR responsibility to ensure that the tool is not used in accordance with local laws. (/s so I dont get sued thanks) 🤡
 
