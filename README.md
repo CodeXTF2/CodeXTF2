@@ -9,7 +9,7 @@ I sometimes document random offensive research I do in my free time on this gitb
 
   
 ## Projects (by category)
-### Cobalt Strike
+### Extending Cobalt Strike
 * [Headless CobaltStrike client](https://github.com/CodeXTF2/cobaltstrike-headless)
 * [Beacon Discord notifications](https://github.com/CodeXTF2/beacon_notify_discordhook)
 * [HuntSleepingBeacons evasion](https://github.com/CodeXTF2/BusySleepBeacon)
@@ -17,7 +17,7 @@ I sometimes document random offensive research I do in my free time on this gitb
 * [WindowSpy Beacon Object File](https://github.com/CodeXTF2/WindowSpy)
 * [Burp2Malleable](https://github.com/CodeXTF2/Burp2Malleable)
 
-### Havoc C2
+### Extending Havoc C2
 * [Notion C2 channel](https://github.com/CodeXTF2/HavocNotion)
 * [Custom Havoc agent example](https://github.com/CodeXTF2/PyHmmm)
 
