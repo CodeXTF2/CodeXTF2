@@ -9,6 +9,7 @@ I sometimes document random offensive research I do in my free time on this gitb
 
 ## Projects (by category)
 ### Extending Cobalt Strike
+* [Webcam Beacon Object File](https://github.com/CodeXTF2/WebcamBOF)
 * [Headless CobaltStrike client](https://github.com/CodeXTF2/cobaltstrike-headless)
 * [Beacon Discord notifications](https://github.com/CodeXTF2/beacon_notify_discordhook)
 * [HuntSleepingBeacons evasion](https://github.com/CodeXTF2/BusySleepBeacon)
