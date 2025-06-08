@@ -3,15 +3,10 @@ I'm a skid who likes developing offensive tools e.g. red team implants/droppers,
 
 anything I make is to be used strictly ONLY for malicious purposes. I am NOT responsible for any education that results from incorrect or legitimate use. It is YOUR responsibility to ensure that the tool is not used in accordance with local laws. (/s so I dont get sued thanks) 🤡
 
-## My certifications
-![image](https://github.com/user-attachments/assets/1e68154a-4344-4ea7-b32b-211043631a0e)
-
-
 ## Red team gitbook
 I sometimes document random offensive research I do in my free time on this gitbook.
 ### [Check out my gitbook :D](https://codex-7.gitbook.io/codexs-terminal-window/)
 
-  
 ## Projects (by category)
 ### Extending Cobalt Strike
 * [Headless CobaltStrike client](https://github.com/CodeXTF2/cobaltstrike-headless)
@@ -27,4 +22,7 @@ I sometimes document random offensive research I do in my free time on this gitb
 
 ### Misc offensive tooling
 * [SharpAwareness](https://github.com/CodeXTF2/SharpAwareness)
+
+## My certifications, because I need to actually get a job one day 😭
+![image](https://github.com/user-attachments/assets/1e68154a-4344-4ea7-b32b-211043631a0e)
 
