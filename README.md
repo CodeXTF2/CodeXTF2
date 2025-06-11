@@ -57,5 +57,6 @@
 <p>Because I need to actually get a job one day 😭</p>
 <p>
   <img src="certs.jpg" alt="My Certifications"/>
+  <br>
   Yes I am a slightly degenerate paper hoarder
 </p>
