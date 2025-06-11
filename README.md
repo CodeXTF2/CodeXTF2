@@ -15,7 +15,7 @@
 <hr />
 
 <!-- GitBook section -->
-<h2>🔗 Red Team GitBook</h2>
+<h2>🔗 GitBook</h2>
 <p>I document my offensive research in my free time on GitBook:</p>
 <p>
   <a href="https://codex-7.gitbook.io/codexs-terminal-window/" target="_blank">
