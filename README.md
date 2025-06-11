@@ -56,5 +56,6 @@
 <h2>🎓 Certifications</h2>
 <p>Because I need to actually get a job one day 😭</p>
 <p>
-  <img src="certs.jpg" alt="My Certifications" width="600" />
+  <img src="certs.jpg" alt="My Certifications"/>
+  Yes I am a slightly degenerate paper hoarder
 </p>
