@@ -28,11 +28,11 @@
 <!-- Projects section -->
 <h2>🛠️ Projects</h2>
 
-<table border="1" cellspacing="0" cellpadding="6">
+<table style="width:100%; border-collapse:collapse;" border="1" cellspacing="0" cellpadding="6">
   <tr>
-    <th>⚙️ Extending Cobalt Strike</th>
-    <th>🕷️ Extending Havoc C2</th>
-    <th>🔧 Misc Offensive Tooling</th>
+    <th style="width:33%;">⚙️ Extending Cobalt Strike</th>
+    <th style="width:33%;">🕷️ Extending Havoc C2</th>
+    <th style="width:33%;">🔧 Misc Offensive Tooling</th>
   </tr>
   <tr>
     <td><a href="https://github.com/CodeXTF2/WebcamBOF">Webcam Beacon Object File</a></td>
@@ -70,6 +70,7 @@
     <td></td>
   </tr>
 </table>
+
 
 
 <hr />
