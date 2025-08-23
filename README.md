@@ -14,17 +14,6 @@
 
 <hr />
 
-<!-- GitBook section -->
-<h2>🔗 GitBook</h2>
-<p>I document my offensive research in my free time on GitBook:</p>
-<p>
-  <a href="https://codex-7.gitbook.io/codexs-terminal-window/" target="_blank">
-    📖 <strong>Check out my GitBook</strong>
-  </a>
-</p>
-
-<hr />
-
 <!-- Projects section -->
 <h2>🛠️ Projects</h2>
 
@@ -74,7 +63,16 @@
 
 
 <hr />
+<!-- GitBook section -->
+<h2>🔗 GitBook</h2>
+<p>I document my offensive research in my free time on GitBook:</p>
+<p>
+  <a href="https://codex-7.gitbook.io/codexs-terminal-window/" target="_blank">
+    📖 <strong>Check out my GitBook</strong>
+  </a>
+</p>
 
+<hr />
 <!-- Certifications section -->
 <h2>🎓 Certifications</h2>
 <p>Because I need to actually get a job one day 😭</p>
