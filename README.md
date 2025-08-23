@@ -15,7 +15,7 @@
 <hr />
 
 <!-- Projects section -->
-<h2>🛠️ Projects</h2>
+<h2>🛠️ terrible code written by me</h2>
 
 <table style="width:100%; border-collapse:collapse;" border="1" cellspacing="0" cellpadding="6">
   <tr>
@@ -64,7 +64,7 @@
 
 <hr />
 <!-- GitBook section -->
-<h2>🔗 GitBook</h2>
+<h2>🔗 funny words</h2>
 <p>I document my offensive research in my free time on GitBook:</p>
 <p>
   <a href="https://codex-7.gitbook.io/codexs-terminal-window/" target="_blank">
@@ -74,7 +74,7 @@
 
 <hr />
 <!-- Certifications section -->
-<h2>🎓 Certifications</h2>
+<h2>🎓 funny paper</h2>
 <p>Because I need to actually get a job one day 😭</p>
 <p>
   <img src="certs.jpg" alt="My Certifications"/>
