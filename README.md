@@ -28,27 +28,49 @@
 <!-- Projects section -->
 <h2>🛠️ Projects</h2>
 
-<h3>⚙️ Extending Cobalt Strike</h3>
-<ul>
-  <li><a href="https://github.com/CodeXTF2/WebcamBOF">Webcam Beacon Object File</a></li>
-  <li><a href="https://github.com/CodeXTF2/cobaltstrike-headless">Headless Cobalt Strike Client</a></li>
-  <li><a href="https://github.com/CodeXTF2/beacon_notify_discordhook">Beacon Discord Notifications</a></li>
-  <li><a href="https://github.com/CodeXTF2/BusySleepBeacon">HuntSleepingBeacons Evasion</a></li>
-  <li><a href="https://github.com/CodeXTF2/ScreenshotBOF">Screenshot Beacon Object File</a></li>
-  <li><a href="https://github.com/CodeXTF2/WindowSpy">WindowSpy Beacon Object File</a></li>
-  <li><a href="https://github.com/CodeXTF2/Burp2Malleable">Burp2Malleable</a></li>
-</ul>
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <th>⚙️ Extending Cobalt Strike</th>
+    <th>🕷️ Extending Havoc C2</th>
+    <th>🔧 Misc Offensive Tooling</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/CodeXTF2/WebcamBOF">Webcam Beacon Object File</a></td>
+    <td><a href="https://github.com/CodeXTF2/HavocNotion">Notion C2 Channel</a></td>
+    <td><a href="https://github.com/CodeXTF2/SharpAwareness">SharpAwareness</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/CodeXTF2/cobaltstrike-headless">Headless Cobalt Strike Client</a></td>
+    <td><a href="https://github.com/CodeXTF2/PyHmmm">Custom Havoc Agent Example</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/CodeXTF2/beacon_notify_discordhook">Beacon Discord Notifications</a></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/CodeXTF2/BusySleepBeacon">HuntSleepingBeacons Evasion</a></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/CodeXTF2/ScreenshotBOF">Screenshot Beacon Object File</a></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/CodeXTF2/WindowSpy">WindowSpy Beacon Object File</a></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/CodeXTF2/Burp2Malleable">Burp2Malleable</a></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
-<h3>🕷️ Extending Havoc C2</h3>
-<ul>
-  <li><a href="https://github.com/CodeXTF2/HavocNotion">Notion C2 Channel</a></li>
-  <li><a href="https://github.com/CodeXTF2/PyHmmm">Custom Havoc Agent Example</a></li>
-</ul>
-
-<h3>🔧 Misc Offensive Tooling</h3>
-<ul>
-  <li><a href="https://github.com/CodeXTF2/SharpAwareness">SharpAwareness</a></li>
-</ul>
 
 <hr />
 
