@@ -1,19 +1,3 @@
-<!-- Centered header with CLI-style prompt -->
-<div align="center">
-  <h1><code>root@codex🖥️# whoami</code></h1>
-  <p><strong>Bargain Bin Red Teamer</strong></p>
-</div>
-
-<!-- Intro paragraph -->
-<p>I specialize in developing offensive tools—red team implants/droppers, C2 infrastructure, and general offensive research. I occasionally clean up and publish the scripts and tools I create here.</p>
-
-<!-- Disclaimer styled as a blockquote -->
-<blockquote>
-  <em>anything I make is to be used strictly ONLY for malicious purposes. I am NOT responsible for any education that results from incorrect or legitimate use. It is YOUR responsibility to ensure that the tool is not used in accordance with local laws. (/s so I dont get sued thanks) 🤡</span></em>
-</blockquote>
-
-<hr />
-
 <!-- Projects section -->
 <h2>🛠️ terrible code written by me</h2>
 
@@ -58,26 +42,9 @@
     <td></td>
     <td></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/CodeXTF2/CustomC2ChannelTemplate">Custom C2 Channel Template</a></td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
-
-
-
-<hr />
-<!-- GitBook section -->
-<h2>🔗 funny words</h2>
-<p>I document my offensive research in my free time on GitBook:</p>
-<p>
-  <a href="https://codex-7.gitbook.io/codexs-terminal-window/" target="_blank">
-    📖 <strong>Check out my GitBook</strong>
-  </a>
-</p>
-
-<hr />
-<!-- Certifications section -->
-<h2>🎓 funny paper</h2>
-<p>Because I need to actually get a job one day 😭</p>
-<p>
-  <img src="certs.jpg" alt="My Certifications"/>
-  <br>
-  Yes I am a slightly degenerate paper hoarder
-</p>
