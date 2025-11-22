@@ -6,7 +6,7 @@
 
 <!-- Intro paragraph -->
 <p>
-  I specialize in developing offensive tools—red team implants/droppers, C2 infrastructure, and general offensive
+  I specialize in developing offensive tools-red team implants/droppers, C2 infrastructure, and general offensive
   research. I occasionally clean up and publish the scripts and tools I create here.
 </p>
 
